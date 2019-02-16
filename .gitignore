@@ -1,0 +1,8 @@
+
+# Pycharm
+.idea/
+
+# Compile file
+*.pyc
+
+git remote add origin git@github.com:ayatsyny/study_book.git
